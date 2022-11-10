@@ -1,7 +1,7 @@
 {
-  "api_key": "ptlc_lPdUe20G1x8S95CiDktm1wDlDs496XUJhJjvWjT1tw3",
+  "api_key": "Here your Pterodactyl API token",
   "host": "https://panel.sneakyhub.com/",
-  "server_id": "86c56032",
+  "server_id": "host server id",
   "trust_role_id": 1038929104642257006,
-  "discord_bot_token": "MTAzODkyMDc1MjEwNTI2NzIzMA.GqtdjU.hJ30WfzE3YrKAn1F750SQsJJ3i-ntNO5TPaohA"
+  "discord_bot_token": "discord bot token"
 }
